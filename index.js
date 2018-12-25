@@ -1,2 +1,8 @@
-//This is my first javascript code
-console.log("Hello World");
+let name = "Shefali";
+console.log(name);
+
+//cannot be a reserved keyword
+//should be meaningful
+//cannot start with a number
+//cannot contain a space or hyphen
+//Are case-sensitive
