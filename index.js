@@ -20,3 +20,6 @@ person["name"] = "lachhar";
 let selection = "name";
 person[selection] = "shefali lachhar";
 console.log(person.name);
+
+let selectedColors = ["red", "blue"];
+console.log(selectedColors);
